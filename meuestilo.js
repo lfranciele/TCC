@@ -56,8 +56,6 @@ export default StyleSheet.create({
       //ESTILO DO LISTAR
       containerlistar: {
         flex: 1,
-       // justifyContent: 'center',
-       // alignItems: 'center',
         marginTop: StatusBar.currentHeight || 0,
       },
       item: {
