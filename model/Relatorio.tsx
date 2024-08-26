@@ -1,7 +1,7 @@
 export class Relatorio {
     constructor(usuarioId, registros) {
         this.usuarioId = usuarioId;
-        this.registros = registros; // Lista de objetos do tipo Ponto
+        this.registros = registros; 
     }
 
     gerarRelatorio() {
